@@ -26,7 +26,7 @@ program
     .option('-a, --append <value>', '(repeatable) add the <value> file to appended files ' +
             '(files that are appended to modules)', repeatOption, [])
     .option('-e, --exports [value]', 'define the exports mokuai option ' +
-            '([value] is optional : false|true|anything)', boolStringOption, false)
+            '([value] is optional and can be either false, true, or any module name)', boolStringOption, false)
     .option('-n, --exportsname <value>', 'set the exportsname mokuai option to <value>', null)
     .option('-A, --autoexports', 'set the autoexports mokuai option to true')
     .option('-o, --output <output>', 'set the output file (if not set, print the result in the console)', null)

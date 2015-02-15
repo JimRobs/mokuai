@@ -174,7 +174,7 @@ $ mokuai --help
     -V, --version              output the version number
     -p, --prepend <value>      (repeatable) add the <value> file to prepended files (files that are prepended to modules)
     -a, --append <value>       (repeatable) add the <value> file to appended files (files that are appended to modules)
-    -e, --exports [value]      define the exports mokuai option ([value] is optional: false|true|anything)
+    -e, --exports [value]      define the exports mokuai option ([value] is optional and can be either false, true, or any module name)
     -n, --exportsname <value>  set the exportsname mokuai option to <value>
     -A, --autoexports          set the autoexports mokuai option to true
     -o, --output <output>      set the output file (if not set, print the result in the console)
