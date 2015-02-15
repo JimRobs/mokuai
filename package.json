@@ -1,7 +1,7 @@
 {
   "name": "mokuai",
-  "version": "1.0.1",
-  "description": "Generates JavaScript, modules elegantly wrapped into an awesome closure, with no sort concern and no verbose require calls, just pure code.",
+  "version": "1.0.2",
+  "description": "Write pure JavaScript modules, without any concern about concatenation order and require calls.",
   "main": "mokuai.js",
   "scripts": {
     "test": "grunt test"

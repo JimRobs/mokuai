@@ -1,7 +1,6 @@
 # mokuai
 
-Generates JavaScript modules, elegantly wrapped into an awesome closure, with no sort concern and no verbose require
-calls, just pure code.
+> Write pure JavaScript modules, without any concern about concatenation order and require calls.
 
 ## Description
 
