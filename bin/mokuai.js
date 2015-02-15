@@ -7,6 +7,9 @@
  * Copyright (c) 2015 JimRobs
  * Licensed under the MIT license.
  */
+
+'use strict';
+
 var fs = require('fs-extra');
 
 var _ = require('lodash');
