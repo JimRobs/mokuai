@@ -17,7 +17,7 @@ utils.doAnAwesomeJob();
 ```
 
 ```js
-// If you're not, it can be awful
+// If you're not, it can be unpleasant
 var utils = require('./../../../../../utils');
 utils.doAnAwesomeJob();
 ```
