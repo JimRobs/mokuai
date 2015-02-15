@@ -24,7 +24,7 @@ var boolStringOption = require('./../utils/bool-string-option');
 // cli declaration
 program
     .version(mokuai.version)
-    .usage('<[modulename::]file ...> [options]')
+    .usage('<[modulename:]file ...> [options]')
     .description([
         'Wrap your modules with mokuai.',
         'If the --output (-o) option is not used, the result is printed into the console.',
