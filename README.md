@@ -222,7 +222,7 @@ or save it as a dev dependency, adding the `--save-dev` option:
 $ npm install mokuai --save-dev
 ```
 
-Then, just can require  `mokuai` in your code and use it as follow.
+Then, you can just require  `mokuai` in your code and use it as follow.
 
 ```js
 var mokuai = require('mokuai');
