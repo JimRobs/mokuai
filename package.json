@@ -18,7 +18,11 @@
     "javascript",
     "modules"
   ],
-  "author": "jimrobs",
+  "author": {
+    "name": "jimrobs",
+    "email": "jimmy@jimrobs.com",
+    "url": "https://github.com/jimrobs"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/JimRobs/mokuai/issues"
