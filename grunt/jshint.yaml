@@ -1,0 +1,6 @@
+options:
+    jshintrc: true
+src:
+    - mokuai.js
+    - bin/mokuai.js
+test: test/**/*.test.js

@@ -1,0 +1,6 @@
+test:
+    - clean
+    - jshint
+    - shell
+    - nodeunit
+    - clean

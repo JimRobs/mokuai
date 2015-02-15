@@ -1,0 +1,1 @@
+modules.originalWindow = window;
