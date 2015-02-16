@@ -2,6 +2,8 @@
 
 > Write pure JavaScript modules, without any concern about concatenation order and require calls.
 
+[![Build Status](https://travis-ci.org/JimRobs/mokuai.svg)](https://travis-ci.org/JimRobs/mokuai)
+
 ## Description
 
 CommonJS is awesome for external libraries, but not perfect when you want to split you own application in modules.
