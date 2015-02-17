@@ -44,7 +44,7 @@ Mokuai wraps your modules into a special closure.
 All modules are saved in a `modules` object, and are refered with a special `getter` which initializes your module when
 it is first called, just like a `require` call.
 
-To be easily accessed anywhere, all your modules are declared in a ~~evil~~ powerful **with** statement and it works
+To be easily accessed anywhere, all your modules are declared in a **with** statement and it works
 like magic.
 
 The only limit is that your modules names have to be unique. Everything else is possible.
