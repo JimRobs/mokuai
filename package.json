@@ -1,6 +1,6 @@
 {
   "name": "mokuai",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Write pure JavaScript modules, without any concern about concatenation order and require calls.",
   "main": "mokuai.js",
   "scripts": {
